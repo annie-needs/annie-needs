@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annie-needs
-- 👀 I’m interested in protein engineering, antibody engineering, machine learning, long distance running, women's soccer, track and field! 
+- 👀 I’m interested in protein engineering, antibody engineering, machine learning, long distance running, soccer, track and field! 
 - 🌱 I’m currently learning Antibody Immune Response Repertoire analysis.
 - 💞️ I’m looking to collaborate on ... we shall see! 
 - 📫 How to reach me: needsang@msu.edu
